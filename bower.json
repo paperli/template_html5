@@ -1,0 +1,26 @@
+{
+  "name": "start",
+  "authors": [
+    "Paper Lee <paper.li@gmail.com>"
+  ],
+  "description": "Try Polymer",
+  "main": "index.html",
+  "moduleType": [],
+  "keywords": [
+    "polymer",
+    "try",
+    "test"
+  ],
+  "license": "MIT",
+  "homepage": "paperworkstud.io",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#~1.2.4"
+  }
+}

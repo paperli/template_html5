@@ -11,3 +11,5 @@ The template with power of bootstrap, html5 and Express on nodejs.
 3. ```node install```
 4. ```cd public```
 5. ```bower install```
+6. ```node app.js```
+7. Go to [localhost:8080](http://localhost:8080) in your browser
